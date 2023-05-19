@@ -7,8 +7,10 @@ name = "pypi"
 django = "*"
 selenium = "*"
 pytest = "*"
+pytest-django = "*"
 
 [dev-packages]
+model-bakery = "*"
 
 [requires]
 python_version = "3.10"
